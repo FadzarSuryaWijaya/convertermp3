@@ -297,9 +297,9 @@ export default function MP3Converter() {
               AudioConvert
             </h1>
           </div>
-          <Button variant="ghost" size="sm">
+          {/* <Button variant="ghost" size="sm">
             {isLoggedIn ? "My Account" : "Sign In"}
-          </Button>
+          </Button> */}
         </div>
       </header>
 
